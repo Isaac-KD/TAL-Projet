@@ -1,1 +1,0 @@
-# model Fast text utiliser est cc.fr.300.vec
